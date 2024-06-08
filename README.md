@@ -1,1 +1,3 @@
 # bookbot
+
+BookBot is my first project! but not actually, that's just what Boot.dev told me to say...
